@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing my Ph.D. at Zhejiang University, working under the guidance of Prof. [Yiyi Liao](https://yiyiliao.github.io/) at the [X-Dim Lab](https://yiyiliao.github.io/xdlab/). Prior to this, I was a master student at Zhejiang University, where I was fortunate to be supervised by Prof. [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/) and Prof. [Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) at the [CAD&CG Lab](http://www.cad.zju.edu.cn/#). I received my bachelor's degree from Tongji University in 2020. 
+I am currently pursuing my Ph.D. at Zhejiang University, working under the guidance of Prof. [Yiyi Liao](https://yiyiliao.github.io/) at the [X-Dim Lab](https://yiyiliao.github.io/xdlab/). Prior to this, I was a master student at Zhejiang University, where I was fortunate to be supervised by Prof. [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/) and Prof. [Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/#). I received my bachelor's degree from Tongji University in 2020. 
 
 During my master’s program, I gained hands-on experience working on recommendation and advertising systems at RedNote, Tencent, and Hulu.
 
